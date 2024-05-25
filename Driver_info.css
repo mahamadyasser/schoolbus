@@ -1,0 +1,48 @@
+img{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 40%;
+}
+.student_info{
+    font-size: larger;
+    background-color: rgba(255, 255, 255, 0.446);
+    width: 500px;
+    margin-left: 330px;
+}
+.btns{
+    margin-top: 20px;
+    margin-left: 330px;
+}
+button{
+    width: 200px;
+    height: 30px;
+    border-color: transparent;
+    border-radius: 20px
+}
+.Update{
+    background-color: rgba(0, 128, 0, 0.529);
+}
+.Update:hover{
+    background-color: green;
+    font-size: larger;
+}
+.Delete{
+    background-color: rgba(255, 0, 0, 0.529);
+}
+.Delete:hover{
+    background-color: red;
+    font-size: larger;
+}
+body{
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    color: black;
+}
